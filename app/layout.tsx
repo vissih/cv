@@ -7,8 +7,8 @@ import { GeistSans } from 'geist/font'
 import { ThemeProvider } from '@/components/theme-provider'
 
 export const metadata: Metadata = {
-  title: 'Next-cv',
-  description: 'Read.cv cloned built with Next.js and Tailwind CSS',
+  title: 'vissih',
+  description: 'Built with Next.js and Tailwind CSS',
 }
 
 export default function RootLayout({
