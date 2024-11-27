@@ -20,7 +20,7 @@ export const profileData = [
           'Developing and maintaining web applications using JavaScript, PHP, SQL, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.',
       },
       {
-        title: 'Communtiy Volunteer at THE PRODUCT HOUSE',
+        title: 'Communtiy Manager at THE PRODUCT HOUSE',
         subTitle: 'Remote',
         date: '2022 - 2023',
         description: 'I led community engagement and managed Discord moderation, successfully onboarding over 5,000 members. I collaborated with sponsors and facilitated both online and offline events, driving user engagement and brand visibility.',
