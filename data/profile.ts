@@ -23,7 +23,7 @@ export const profileData = [
         subTitle: 'Hybrid',
         date: '2023 - 2024',
         description:
-          'Developing and maintaining web applications using JavaScript, PHP, SQL, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.',
+          'Developed and Maintained web applications using JavaScript, PHP, SQL, HTML, and CSS. Collaborated with the team to implement new features and fix bugs.',
       }
     ],
   },
