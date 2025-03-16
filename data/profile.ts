@@ -13,18 +13,18 @@ export const profileData = [
     title: 'Work Experience',
     items: [
       {
-        title: 'Tech Volunteer at GURU JAMBESHWAR UNIVERSITY',
-        subTitle: 'Hybrid',
-        date: '2023 - Present',
-        description:
-          'Developing and maintaining web applications using JavaScript, PHP, SQL, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.',
+        title: 'T1 at Avalanche🔺',
+        subTitle: 'Remote',
+        date: 'Dec 2024 - Present',
+        description: 'tbh idk, vibing and chilling - sometimes working',
       },
       {
-        title: 'Communtiy Manager at THE PRODUCT HOUSE',
-        subTitle: 'Remote',
-        date: '2022 - 2023',
-        description: 'I led community engagement and managed Discord moderation, successfully onboarding over 5,000 members. I collaborated with sponsors and facilitated both online and offline events, driving user engagement and brand visibility.',
-      },
+        title: 'Tech Volunteer at GURU JAMBESHWAR UNIVERSITY',
+        subTitle: 'Hybrid',
+        date: 'Aug 2023 - Sep 2024',
+        description:
+          'Developing and maintaining web applications using JavaScript, PHP, SQL, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.',
+      }
     ],
   },
   {
