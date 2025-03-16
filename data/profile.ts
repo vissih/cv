@@ -15,13 +15,13 @@ export const profileData = [
       {
         title: 'T1 at Avalanche🔺',
         subTitle: 'Remote',
-        date: 'Dec 2024 - Present',
+        date: '2024 - Present',
         description: 'tbh idk, vibing and chilling - sometimes working',
       },
       {
         title: 'Tech Volunteer at GURU JAMBESHWAR UNIVERSITY',
         subTitle: 'Hybrid',
-        date: 'Aug 2023 - Sep 2024',
+        date: '2023 - 2024',
         description:
           'Developing and maintaining web applications using JavaScript, PHP, SQL, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.',
       }
