@@ -19,7 +19,7 @@ export const profileData = [
         description: 'vibing and chilling - sometimes working',
       },
       {
-        title: 'Tech Volunteer at GURU JAMBESHWAR UNIVERSITY',
+        title: 'Tech Volunteer at GJUST',
         subTitle: 'Hybrid',
         date: '2023 - 2024',
         description:
