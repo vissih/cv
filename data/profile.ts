@@ -34,7 +34,7 @@ export const profileData = [
         title: "B.Tech CSE",
         subTitle: 'Guru Jambeshwar University',
         date: '2022 - 2026',
-        description: 'Computer Science and Engineering / Artifical Intelligence & Machine Learning',
+        description: 'Computer Science and Engineering / Artifical Intelligence and Machine Learning',
       },
     ],
   },
