@@ -4,7 +4,7 @@ export const bioData = {
   jobTitle: 'Software Engineer',
   website: 'https://x.com/vissih',
   about:
-    'I am 21 y/o final year student from India. I like building softwares & solving complex problems.',
+    'I like building softwares & solving complex problems.',
   contacts: [
     {
       label: 'Email',
