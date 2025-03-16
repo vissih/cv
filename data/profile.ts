@@ -16,7 +16,7 @@ export const profileData = [
         title: 'T1 at Avalanche🔺',
         subTitle: 'Remote',
         date: '2024 - Present',
-        description: 'tbh idk, vibing and chilling - sometimes working',
+        description: 'vibing and chilling - sometimes working',
       },
       {
         title: 'Tech Volunteer at GURU JAMBESHWAR UNIVERSITY',
