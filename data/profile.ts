@@ -31,7 +31,7 @@ export const profileData = [
     title: 'Education',
     items: [
       {
-        title: "Bachelor's Degree in Computer Science",
+        title: "B.Tech CSE",
         subTitle: 'Guru Jambeshwar University',
         date: '2022 - 2026',
         description: 'Computer Science and Engineering / Artifical Intelligence & Machine Learning',
