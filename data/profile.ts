@@ -17,13 +17,6 @@ export const profileData = [
         subTitle: 'Remote',
         date: '2024 - Present',
         description: 'vibing and chilling - sometimes working',
-      },
-      {
-        title: 'Tech Volunteer at GJUST',
-        subTitle: 'Hybrid',
-        date: '2023 - 2024',
-        description:
-          'Developed and Maintained web applications using JavaScript, PHP, SQL, HTML, and CSS. Collaborated with the team to implement new features and fix bugs.',
       }
     ],
   },
